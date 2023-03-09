@@ -1,0 +1,19 @@
+تحديث اصلاحي V14 Fixed
+
+✅تم اصلاح كل المشاكل 
+✅تم اضافة  ميزات جديدة
+✅تم اصلاح الانهيار عند الدخول  الى النسخة 
+✅نم اصلاح الانهيار عند الدخول من الاشعارات
+✅ايضا قمنا بازلة صفحة انتهاء الاصدار المزعجة 
+✅يمكنك التحميل من الموقع  او من قناة علاء التقنية 
+  
+ شكرا لكم دمتم بخير 👍🏻
+ 
+ All problems have been fixed
+✅ New features have been added
+✅ Fixed the crash when entering the version
+✅ We fixed the collapse when entering from notifications
+✅ We also removed the annoying version expiry page
+✅ You can download from the website or from Alaa Technical channel
+  
+  Thank you, stay well👍🏻
